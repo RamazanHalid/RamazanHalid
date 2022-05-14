@@ -12,7 +12,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do Fitness
 <br />
-<br />
+ 
 ### Languages and Tools:
 <img align="left" alt="csharp" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/240px-C_Sharp_wordmark.svg.png"/>
 <img align="left" alt="DotNetCore" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"/>
