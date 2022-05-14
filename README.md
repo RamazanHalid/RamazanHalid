@@ -2,8 +2,8 @@
 
 ## 🚀 About Me 
    I am a Back-End developer that is always striving for better. Mostly, I use the .Net Core platform in order to improve my software development skills. I published  and  worked on projects in a variety of software architectures. I generally improved myself in enterprise architectures since I have knowledge and experience at cooperation (n-Layer, Microservice and Onion Architecture, etc.). I have also created Front-End applications using SPA technologies such as Blazor and Angular. Finally, I published my developed applications using Docker. During this process, I also learned a lot about CI/CD.
-
-
+   
+   
 ## I'm a Software Developer!
  
 - 🔭 I’m currently preparing for graduation
@@ -11,6 +11,12 @@
 - 👯 I’m looking to collaborate with other researchers.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do Fitness
+
+## My Published Projects!
+ 
+-  <a href="https://panel.emlakofisimden.com/login">MediLaw </a>
+-  <a href="http://20.113.66.240:2000/">Selling Project with Microservice </a>
+
 <br />
  
 ### Languages and Tools:
