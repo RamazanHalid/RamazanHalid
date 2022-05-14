@@ -15,12 +15,8 @@
 
 ### Languages and Tools:
 [<img align="left" alt="csharp" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/240px-C_Sharp_wordmark.svg.png"/>] 
- [<img align="left" alt="DotNet" width="40px" src="[<img align="left" alt="csharp" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/240px-C_Sharp_wordmark.svg.png"/>] 
- "/>][github] 
-  [<img align="left" alt="DotNet" width="40px" src="[<img align="left" alt="csharp" width="40px" src=" https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"/>] 
- "/>][github] 
-
- https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg
+[<img align="left" alt="DotNet" width="40px" src="[<img align="left" alt="csharp" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"/>]
+[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"/>] 
 [<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>] 
  
 [<img align="left" alt="Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"/>]
