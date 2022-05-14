@@ -1,17 +1,18 @@
-# Hi there, I'm Ramazan.👋 <p align="center">  
+<h1 align="center"> Hi there, I'm Ramazan.👋 </h1>
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me  </h2>
 I am a Back-End developer that is always striving for better. Mostly, I use the .Net Core platform in order to improve my software development skills. I published  and  worked on projects in a variety of software architectures. I generally improved myself in enterprise architectures since I have knowledge and experience at cooperation (n-Layer, Microservice and Onion Architecture, etc.). I have also created Front-End applications using SPA technologies such as Blazor and Angular. Finally, I published my developed applications using Docker. During this process, I also learned a lot about CI/CD.
 
 
-## I'm a Software Developer!
+<h3 align="center"> I'm a Software Developer!</h3>
+<p align="center">
 - 🔭 I’m currently preparing for graduation
 - 🌱 I’m currently learning advance Software Architectures.
 - 👯 I’m looking to collaborate with other researchers.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do Fitness
 
-
+</p>
  
 <br />
 
