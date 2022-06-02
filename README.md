@@ -15,7 +15,6 @@
 ## My Published Projects!
  
 -  <a href="https://panel.emlakofisimden.com/">MediLaw </a>
--  <a href="http://20.113.66.240:2000/">Selling Project with Microservice </a>
 
 <br />
  
