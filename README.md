@@ -32,7 +32,7 @@ projects with my teammates and I will keep up with them.
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/> 
 <img align="left" alt="Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"/>
 <img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"/>
-<img align="left" alt="Rabbitmq" width="40px" src="https://store-images.s-microsoft.com/image/apps.10116.0422caba-4240-486b-bfe14c7a4676ce25.83d143fd-9761-487f-be62-65f5f9d690a7.5493c96b-989e-4db7-9a53-acfc95525be7"/>
+<img align="left" alt="Rabbitmq" width="40px" src="https://store-images.s-microsoft.com/image/apps.10116.0422caba-4240-486b-bfe1-4c7a4676ce25.83d143fd-9761-487f-be62-65f5f9d690a7.5493c96b-989e-4db7-9a53-acfc95525be7"/>
 <img align="left" alt="MicrosoftSql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
 <img align="left" alt="Redis" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg"/>
 <img align="left" alt="Azure" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"/>
