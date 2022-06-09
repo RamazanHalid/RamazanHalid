@@ -1,7 +1,14 @@
 <h1 align="center"> Hi there 👋, I'm Ramazan. </h1>
 
 ## 🚀 About Me 
-   I am a Back-End developer that is always striving for better. Mostly, I use the .Net Core platform in order to improve my software development skills. I published  and  worked on projects in a variety of software architectures. I generally improved myself in enterprise architectures since I have knowledge and experience at cooperation (n-Layer, Microservice and Onion Architecture, etc.). I have also created Front-End applications using SPA technologies such as Blazor and Angular. Finally, I published my developed applications using Docker. During this process, I also learned a lot about CI/CD.
+  I have trained myself to be a person suitable for teamwork because today the most successful and enjoyable
+work is done by big teams. While developing myself in this field, I have constantly focused on architectures where
+more than one person will work (N-Layer, Onion, DDD, and Microservice Architectures). Thanks to these
+architectures, I started to develop sustainable software. In these softwares, I have mastered clean code
+techniques such as SOLID and Disegn Patterns. While applying these techniques, I learned to use tools such as
+Dependency Injection, IoC Containers, JWT, ORM (EntityFramework), Fluent Validation, AOP (Aspect Oriented
+Programming), Docker-CI/CD efficiently. With this information I have learned, I am sure that I will create good
+projects with my teammates and I will keep up with them.
    
    
 ## I'm a Software Developer!
