@@ -42,9 +42,9 @@ projects with my teammates and I will keep up with them.
 <img align="left" alt="Angular" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/>
  <br />
  <br />
- <br />
+ 
 ### Contact Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramazan-halid-5819851b4/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramazan-halid-5819851b4/)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RamazanHalid/)
 ![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramazan.halid.35@gmail.com)
  
