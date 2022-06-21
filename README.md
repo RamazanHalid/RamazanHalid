@@ -3,7 +3,7 @@
 ## 🚀 About Me 
   I have trained myself to be a person suitable for teamwork because today the most successful and enjoyable
 work is done by big teams. While developing myself in this field, I have constantly focused on architectures where
-more than one person will work (N-Layer, Onion, DDD, and Microservice Architectures). Thanks to these
+more than one person will work (N-Layer, and Microservice Architectures). Thanks to these
 architectures, I started to develop sustainable software. In these softwares, I have mastered clean code
 techniques such as SOLID and Disegn Patterns. While applying these techniques, I learned to use tools such as
 Dependency Injection, IoC Containers, JWT, ORM (EntityFramework), Fluent Validation, AOP (Aspect Oriented
