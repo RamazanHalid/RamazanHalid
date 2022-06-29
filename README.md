@@ -19,9 +19,6 @@ projects with my teammates and I will keep up with them.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do Fitness
 
-## My Published Projects!
- 
--  <a href="https://panel.emlakofisimden.com/">MediLaw </a>
 
 <br />
  
