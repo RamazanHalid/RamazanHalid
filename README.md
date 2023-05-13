@@ -16,7 +16,7 @@ projects with my teammates and I will keep up with them.
 - 🔭 I’m currently preparing for graduation
 - 🌱 I’m currently learning advance Software Architectures.
 - 👯 I’m looking to collaborate with other researchers.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do Fitness
 
 
