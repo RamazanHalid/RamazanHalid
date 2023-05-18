@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=RamazanHalid)
 <h1 align="center"> Hi there 👋, I'm Ramazan. </h1>
 
 ## 🚀 About Me 
